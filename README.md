@@ -4,7 +4,7 @@ This repository has the necessary code to replicate the results obtained in the 
 
 The results of this research can be found here:
 
-https://github.com/Dangaran/Chapter_3/blob/main/Chapter_pdf/Chapter_3.pdf
+https://github.com/Dangaran/Doctoral_thesis_chapter_3-Land_use_and_holm_oak_decline_effect_in_soil_microbiota/blob/main/Chapter_pdf/Chapter_3.pdf
 
 Also, you can download the full doctoral thesis from:
 
